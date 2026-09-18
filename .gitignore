@@ -1,0 +1,10 @@
+# Node 依赖
+node_modules/
+
+# 构建产物（由 esbuild 生成，可随时 npm run build 重新生成）
+app.js
+
+# 日志 / 系统文件
+*.log
+.DS_Store
+Thumbs.db
